@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aeb14476-ff07-4d49-a63b-5ae477079786" name="Changes" comment="blabla" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/odoo17" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YoelBarreto&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/YoelBarreto/Odoo17.git",
+    "accountId": "eeb5d646-5376-465b-940f-33e0bb6470f7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nEjhqW2Ygj2h18sjGuSUPWV5zg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;17.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alumno/Documents/odoo17&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeb14476-ff07-4d49-a63b-5ae477079786" name="Changes" comment="" />
+      <created>1728545251261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728545251261</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Cambios de no se que, además de cambiar el return de &quot;/lista_tareas/lista_tareas&quot;">
+      <option name="closed" value="true" />
+      <created>1729588223276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729588223276</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Terminado kanban y comenzando calendar">
+      <option name="closed" value="true" />
+      <created>1731071642536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731071642536</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Remodelado calendario (Sin funcionamiento)">
+      <option name="closed" value="true" />
+      <created>1731405798712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731405798712</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creado calendario">
+      <option name="closed" value="true" />
+      <created>1732782905902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732782905902</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Modificado los campos">
+      <option name="closed" value="true" />
+      <created>1732782973367</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732782973367</updated>
+    </task>
+    <task id="LOCAL-00006" summary="blabla">
+      <option name="closed" value="true" />
+      <created>1732783040496</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732783040496</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cambios de no se que, además de cambiar el return de &quot;/lista_tareas/lista_tareas&quot;" />
+    <MESSAGE value="Terminado kanban y comenzando calendar" />
+    <MESSAGE value="Remodelado calendario (Sin funcionamiento)" />
+    <MESSAGE value="Creado calendario" />
+    <MESSAGE value="Modificado los campos" />
+    <MESSAGE value="blabla" />
+    <option name="LAST_COMMIT_MESSAGE" value="blabla" />
+  </component>
+</project>
