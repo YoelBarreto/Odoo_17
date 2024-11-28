@@ -1,3 +1,21 @@
+# Modifica el ejemplo más sencillo de la lista de tareas de modo que:
+
+![odooViews](https://github.com/user-attachments/assets/bcae55af-2af7-4578-b877-79d00ea01c73)
+
+
+- Tenga una nueva vista para ver las tareas en formato “Kanban”.
+
+![odookanban](https://github.com/user-attachments/assets/16f3a4f6-1b9d-4aa8-bb33-88ba0d60748f)
+
+
+- Modifica las tareas para tener una fecha asignada y crea una nueva vista para ver en una vista “Calendario” la fecha asignada.
+
+![odoocalendar](https://github.com/user-attachments/assets/1d34a0fd-a9f5-4246-8322-69b2191b3d38)
+
+
+
+
+
 [![Build Status](https://runbot.odoo.com/runbot/badge/flat/1/master.svg)](https://runbot.odoo.com/runbot)
 [![Tech Doc](https://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/documentation/17.0)
 [![Help](https://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
